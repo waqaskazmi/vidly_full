@@ -11,7 +11,7 @@ require('./startup/config')();
 require('./startup/validation')();
 require('./startup/prod')(app);
 
-
+console/log("abc");
 app.get("/", (req, res) => {
     app.use(express.static(path.resolve(__dirname,"client","build")));
     res.sendFile(path.resolve(__dirname,"client","build","index.html"));
