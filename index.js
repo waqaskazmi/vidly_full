@@ -1,5 +1,6 @@
 const winston = require('winston');
 const express = require('express');
+const path = require('path');
 
 const app = express();
 
@@ -9,6 +10,7 @@ require('./startup/db')();
 require('./startup/config')();
 require('./startup/validation')();
 require('./startup/prod')(app);
+
 
 app.get("/", (req, res) => {
     app.use(express.static(path.resolve(__dirname,"client","build")));
