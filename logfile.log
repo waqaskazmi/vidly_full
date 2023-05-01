@@ -1,0 +1,138 @@
+{"level":"error","message":"Operation `genres.find()` buffering timed out after 10000ms"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"error is not defined"}
+{"level":"error","message":"could not get genres"}
+{"level":"error","message":"could not get genres"}
+{"level":"error","message":"could not get genres"}
+{"level":"error","message":"could not get genres"}
+{"date":"Sun Apr 16 2023 21:55:35 GMT+0500 (Pakistan Standard Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: Something Failed at Startup\nError: Something Failed at Startup\n    at Object.<anonymous> (C:\\Users\\User\\vidly_be\\index.js:20:7)\n    at Module._compile (node:internal/modules/cjs/loader:1226:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)\n    at Module.load (node:internal/modules/cjs/loader:1089:32)\n    at Module._load (node:internal/modules/cjs/loader:930:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","os":{"loadavg":[0,0,0],"uptime":321579.625},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\User\\vidly_be\\index.js"],"cwd":"C:\\Users\\User\\vidly_be","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":71983102,"external":72919221,"heapTotal":66306048,"heapUsed":37632928,"rss":92282880},"pid":22128,"uid":null,"version":"v18.14.0"},"stack":"Error: Something Failed at Startup\n    at Object.<anonymous> (C:\\Users\\User\\vidly_be\\index.js:20:7)\n    at Module._compile (node:internal/modules/cjs/loader:1226:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)\n    at Module.load (node:internal/modules/cjs/loader:1089:32)\n    at Module._load (node:internal/modules/cjs/loader:930:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":7,"file":"C:\\Users\\User\\vidly_be\\index.js","function":null,"line":20,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1226,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1280,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1089,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":930,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
+{"level":"info","message":"listening on port 4000 ...."}
+{"level":"info","message":"connected to mongodb database vidly"}
