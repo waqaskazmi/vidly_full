@@ -6,7 +6,7 @@ module.exports = function(app){
         contentSecurityPolicy: {
           directives: {
             defaultSrc: ["'self'"],
-            connectSrc: ["'self'", 'http://127.0.0.1:8000', 'ws://localhost:42877/']
+            connectSrc: ["'self'", 'https://vidly-full.vercel.app', 'ws://localhost:42877/']
           }
         }
       }));
