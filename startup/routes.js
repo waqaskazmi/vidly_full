@@ -1,5 +1,5 @@
 const express = require('express');
-const cors = require('cors');
+//const cors = require('cors');
 const genres = require('../routes/genres');
 const customers = require('../routes/customers');
 const rentals = require('../routes/rentals');
@@ -11,7 +11,7 @@ const error = require('../middleware/error');
 
 
 module.exports = function (app) {
-  app.use(cors());
+  //app.use(cors());
   app.use(express.json());
   app.use("/api/genres", genres);
   app.use("/api/movies", movies);
