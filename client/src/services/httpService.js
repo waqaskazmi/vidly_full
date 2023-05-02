@@ -4,6 +4,7 @@ import { toast } from "react-toastify";
 
 axios.defaults.baseURL = process.env.REACT_APP_API_URL;
 //axios.defaults.baseURL = "https://vidly-be-waqaskazmi.vercel.app/api";
+axios.defaults.baseURL = "https://vidly-full.vercel.app/api";
 
 axios.interceptors.response.use(null, (error) => {
   const expectedError =
